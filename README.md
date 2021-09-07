@@ -14,6 +14,8 @@ why not?
 ```
 gh repo clone dibrinsofor/readme-template
 ```
+* install the dependencies in requirements.txt
+```pip install requirements.txt```
 * create a file ".env" and store all of your twitter and spotify credentials
 * that's it! you can run it now and watch it go.
 ```
