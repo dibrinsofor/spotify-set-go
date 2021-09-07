@@ -1,0 +1,5 @@
+.env
+venv/
+*.txt
+!requirements.txt
+.terkore
